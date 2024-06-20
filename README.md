@@ -1,2 +1,2 @@
-# mi-primer-repositorio
+# Mi primer README
 Aprendiendo git y github con freeCodeCamp
